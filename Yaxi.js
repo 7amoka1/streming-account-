@@ -25,4 +25,4 @@ Yaxi.on("ready", () => {
     if (join) join.join();
   });
 //////////////// tokn lera da bne 
-Yaxi.login("");
+Yaxi.login("ODM1NDY4MTE0Njk0MjQyMzA0.YYK96w._r49DF1Wr_iWefKJXRh9w_O1oww");
